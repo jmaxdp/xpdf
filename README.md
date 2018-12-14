@@ -5,7 +5,7 @@ This package is originally made by [xpdfreader.com](https//:www.xpdfreader.com).
 
 
 > To extract pdf to raw text
-...
+```
 let xpdf = require("xpdf");
 
 let extractoptions = [
@@ -15,7 +15,7 @@ let extractoptions = [
 xpdf.extract(extractoptions, (cb)=>{
     console.log(cb) //returns raw text
 })
-...
+```
 
 > To convert and save to file
 ...
