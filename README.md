@@ -18,7 +18,7 @@ xpdf.extract(extractoptions, (cb)=>{
 ```
 
 > To convert and save to file
-...
+```
 let xpdf = require("xpdf");
 
 let convertoptions = [
@@ -29,4 +29,4 @@ let convertoptions = [
 xpdf.convert(convertoptions, (cb)=>{
     console.log(cb) //returns path of export and if success
 })
-...
+```
