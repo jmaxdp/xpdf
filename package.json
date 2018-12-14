@@ -1,11 +1,25 @@
 {
-  "name": "xpdf",
+  "name": "@aynode/xpdf",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aynode/xpdf.git"
+  },
+  "keywords": [
+    "xpdf"
+  ],
+  "author": "Michael Seltene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aynode/xpdf/issues"
+  },
+  "homepage": "https://github.com/aynode/xpdf#readme",
+  "resources": {
+    "homepage": "https://www.xpdfreader.com/"
+  }
 }
