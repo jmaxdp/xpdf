@@ -6,7 +6,7 @@ First install via npm: `npm i @aynode/xpdf --save`
 
 > To extract pdf to raw text
 ```
-let xpdf = require("xpdf");
+let xpdf = require("@aynode/xpdf");
 
 let extractoptions = [
     "your/path/to/pdf.pdf"
@@ -19,7 +19,7 @@ xpdf.extract(extractoptions, (cb)=>{
 
 > To convert and save to file
 ```
-let xpdf = require("xpdf");
+let xpdf = require("@aynode/xpdf");
 
 let convertoptions = [
     "your/path/to/pdf.pdf",
