@@ -1,6 +1,6 @@
 {
   "name": "@aynode/xpdf",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "This package is originally made by www.xpdfreader.com. This package includes Xpdf tools. The tools convert pdf files to html, png, ppm, ops, text. This package also includes pdf detach, fonts, images and info. For more info, please visit the owner at https://www.xpdfreader.com.",
   "main": "xpdf.js",
   "scripts": {
