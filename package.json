@@ -1,7 +1,7 @@
 {
   "name": "@aynode/xpdf",
-  "version": "1.0.5",
-  "description": "This package is originally made by www.xpdfreader.com. This package includes Xpdf tools. The tools convert pdf files to html, png, ppm, ops, text. This package also includes pdf detach, fonts, images and info. For more info, please visit the owner at https://www.xpdfreader.com.",
+  "version": "1.0.6",
+  "description": "This package is originally made by www.xpdfreader.com. This package includes Xpdf tools. The tools convert pdf files to html, png, ppm, ops, text and json. This package also includes pdf detach, fonts, images and info. For more info, please visit the owner at https://www.xpdfreader.com.",
   "main": "xpdf.js",
   "scripts": {
     "test": "node test.js"
@@ -14,7 +14,14 @@
     "xpdf",
     "xpdfreader",
     "XpdfWidget/Qt",
-    "www.xpdfreader.com"
+    "www.xpdfreader.com",
+    "pdf to text",
+    "pdf to json",
+    "pdf to html",
+    "pdf to png",
+    "pdf to ppm",
+    "pdf to ops",
+    "pdf converter"
   ],
   "author": "Michael Seltene",
   "license": "ISC",
